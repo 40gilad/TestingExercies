@@ -1,0 +1,7 @@
+colorama @ file:///C:/b/abs_a9ozq0l032/croot/colorama_1672387194846/work
+exceptiongroup @ file:///C:/b/abs_c5h1o1_b5b/croot/exceptiongroup_1706031441653/work
+iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
+packaging @ file:///C:/b/abs_3by6s2fa66/croot/packaging_1734472138782/work
+pluggy @ file:///C:/b/abs_dfec_m79vo/croot/pluggy_1733170145382/work
+pytest @ file:///C:/b/abs_9dllqyhfs_/croot/pytest_1738938859288/work
+tomli @ file:///C:/Windows/TEMP/abs_ac109f85-a7b3-4b4d-bcfd-52622eceddf0hy332ojo/croots/recipe/tomli_1657175513137/work

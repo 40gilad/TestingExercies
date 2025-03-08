@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+*.dylib
+*.pyd
+
+# Conda environment files
+*.conda
+*.env
+*.venv
+*.yaml
+*.yml
+venv/
+env/
+tdd_spotify/  # If the Conda env was created inside the project
+
+# pytest cache
+.cache/
+.pytest_cache/
+
+# Logs and temporary files
+*.log
+*.out
+*.tmp
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Virtual environment & dependencies
+Pipfile
+Pipfile.lock
+
