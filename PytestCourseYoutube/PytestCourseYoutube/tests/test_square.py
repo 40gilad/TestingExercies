@@ -11,9 +11,9 @@ def test_multiple_square_areas(length, expected_area):
     assert desired_result == actual_result
 
 
-
-
 perimeters_list = [(3, 12), (4, 16), (5, 20)]
+
+
 @pytest.mark.parametrize("length, expected_perimeter", perimeters_list)
 def test_multiple_square_perimeters(length, expected_perimeter):
     desired_result = expected_perimeter
