@@ -4,6 +4,7 @@ import unittest.mock as mock
 from tests.helpers.helpers import HelperTestSpotifyDownloader as HTSD
 
 
+# region Fixtures
 @pytest.fixture
 def test_helper():
     """Fixture to provide a single instance of the helper class for all tests."""
@@ -29,6 +30,9 @@ def mocked_sp_tracks():
         return m
 
 
+# endregion
+
+# region Test Playlists
 @pytest.mark.parametrize("playlist_name, expected_output", HTSD().get_parmeterize_pairs_for_test_get_playlist())
 def test_get_playlist(mocked_sp_playlists, spotify_class, test_helper, playlist_name, expected_output):
     # Arrange
@@ -53,6 +57,9 @@ def test_get_playlist_invalid_playlist(mocked_sp_playlists, spotify_class, playl
     assert actual_result == expected_output, f"Expected {expected_output}\n got {actual_result}"
 
 
+# endregion
+
+# region Test Songs
 @pytest.mark.parametrize("playlist_name,playlist_id, expected_output",
                          HTSD().get_parmeterize_pairs_for_test_get_songs_from_playlist())
 def test_get_songs_from_playlist(mocked_sp_tracks, spotify_class, test_helper, playlist_name, playlist_id,
@@ -76,6 +83,9 @@ def test_get_songs_from_playlist_invalid_id(mocked_sp_tracks, spotify_class):
         spotify_class.get_songs_from_playlist("invalid_id")
 
 
+# endregion
+
+
 #
 # def test_create_folder():
 #     assert True
@@ -93,7 +103,3 @@ def test_get_songs_from_playlist_invalid_id(mocked_sp_tracks, spotify_class):
 # def test_change_metadata():
 #     assert True
 
-if __name__ == "__main__":
-    # test_get_playlist()
-    kaki = test_get_playlist()
-    a = 1
