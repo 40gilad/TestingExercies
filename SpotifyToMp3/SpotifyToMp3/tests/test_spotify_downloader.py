@@ -1,27 +1,13 @@
 import pytest
 import source.spotify_downloader as sd
 import unittest.mock as mock
-import json
-import os
+from tests.helpers.helpers import HelperTestSpotifyDownloader as HTSD
 
 
-def load_json(sub_path):
-    f = fr"C:\Users\40gil\Desktop\not_work\my_scipts\TestingExercies\SpotifyToMp3\SpotifyToMp3\tests\data\{sub_path}.json"
-    if os.path.getsize(f) == 0:  # Check if the file is empty
-        return None
-    with open(f) as file:
-        return json.load(file)
-
-
-def get_parmeterize_pairs_for_test_get_songs_from_playlist():
-    playlists_names = ["Moz17_3", "Movies", "Drock"]
-    return [(p, load_json(fr"expected_jsons\playlists\{p}")["id"], load_json(fr"expected_jsons\songs\{p}")) for p in
-            playlists_names]
-
-
-def get_parmeterize_pairs_for_test_get_playlist():
-    playlists_names = ["Moz17_3", "Movies", "Drock"]
-    return [(p, load_json(fr"expected_jsons\playlists\{p}")) for p in playlists_names]
+@pytest.fixture
+def test_helper():
+    """Fixture to provide a single instance of the helper class for all tests."""
+    return HTSD()
 
 
 @pytest.fixture
@@ -43,10 +29,10 @@ def mocked_sp_tracks():
         return m
 
 
-@pytest.mark.parametrize("playlist_name, expected_output", get_parmeterize_pairs_for_test_get_playlist())
-def test_get_playlist(mocked_sp_playlists, spotify_class, playlist_name, expected_output):
+@pytest.mark.parametrize("playlist_name, expected_output", HTSD().get_parmeterize_pairs_for_test_get_playlist())
+def test_get_playlist(mocked_sp_playlists, spotify_class, test_helper, playlist_name, expected_output):
     # Arrange
-    mocked_sp_playlists.return_value = load_json(r"mocked_jsons\playlists\AllPlaylists")
+    mocked_sp_playlists.return_value = test_helper.load_json(r"mocked_jsons\playlists\AllPlaylists")
 
     # Act
     actual_result = spotify_class.get_playlist(playlist_name)
@@ -68,10 +54,11 @@ def test_get_playlist_invalid_playlist(mocked_sp_playlists, spotify_class, playl
 
 
 @pytest.mark.parametrize("playlist_name,playlist_id, expected_output",
-                         get_parmeterize_pairs_for_test_get_songs_from_playlist())
-def test_get_songs_from_playlist(mocked_sp_tracks, spotify_class, playlist_name, playlist_id, expected_output):
+                         HTSD().get_parmeterize_pairs_for_test_get_songs_from_playlist())
+def test_get_songs_from_playlist(mocked_sp_tracks, spotify_class, test_helper, playlist_name, playlist_id,
+                                 expected_output):
     # arrange
-    mocked_sp_tracks.return_value = load_json(fr"mocked_jsons\songs\{playlist_name}")
+    mocked_sp_tracks.return_value = test_helper.load_json(fr"mocked_jsons\songs\{playlist_name}")
 
     # act
     actual_result = spotify_class.get_songs_from_playlist(playlist_id)

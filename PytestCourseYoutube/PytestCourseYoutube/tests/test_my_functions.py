@@ -51,7 +51,7 @@ def test_skip_feature_of_pytest():
 
 
 @pytest.mark.xfail(reason = "checking the xfaile feature")
-def test_xfaile_feature_of_pytest():
+def test_xfail_feature_of_pytest():
     func = mf.add
     first_num, second_num = 3, 4
     required_result = 8
