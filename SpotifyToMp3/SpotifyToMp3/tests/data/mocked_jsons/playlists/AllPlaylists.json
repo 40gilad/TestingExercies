@@ -1,0 +1,2402 @@
+{
+    "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq/playlists?offset=0&limit=100",
+    "limit": 100,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 56,
+    "items": [
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0bw7ye0CXMxzB5bkUklNN3"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0bw7ye0CXMxzB5bkUklNN3",
+            "id": "0bw7ye0CXMxzB5bkUklNN3",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d561dc13f5affc54167a2626",
+                    "width": null
+                }
+            ],
+            "name": "Moz17_3",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAABM8Uu8yCmd08FNtr6W+q68GIxUzg",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0bw7ye0CXMxzB5bkUklNN3/tracks",
+                "total": 3
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0bw7ye0CXMxzB5bkUklNN3"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/09nFUvi4HeI8w7i99hTkrR"
+            },
+            "href": "https://api.spotify.com/v1/playlists/09nFUvi4HeI8w7i99hTkrR",
+            "id": "09nFUvi4HeI8w7i99hTkrR",
+            "images": null,
+            "name": "ToCheck",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAB6ZsUSqZKM+c2hMfhefHPMDWHNDy",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/09nFUvi4HeI8w7i99hTkrR/tracks",
+                "total": 0
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:09nFUvi4HeI8w7i99hTkrR"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1CuNX15wup1JQYWdUgpG8z"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1CuNX15wup1JQYWdUgpG8z",
+            "id": "1CuNX15wup1JQYWdUgpG8z",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ab9b9f380c3235b355e773f5",
+                    "width": null
+                }
+            ],
+            "name": "Pollys",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAOPM2ATdqN29ylbAcT/i7MbckAATS",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1CuNX15wup1JQYWdUgpG8z/tracks",
+                "total": 42
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1CuNX15wup1JQYWdUgpG8z"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1IcFGS7aAGW4dJfZLSNjNb"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1IcFGS7aAGW4dJfZLSNjNb",
+            "id": "1IcFGS7aAGW4dJfZLSNjNb",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0211598a0cf24b6575ca0f6ef6ab67616d00001e0225a54937b43d7bc0f6fd9d77ab67616d00001e0229b65a326fbddf82717187b5ab67616d00001e0287afa5e41783b6122c22f101",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0211598a0cf24b6575ca0f6ef6ab67616d00001e0225a54937b43d7bc0f6fd9d77ab67616d00001e0229b65a326fbddf82717187b5ab67616d00001e0287afa5e41783b6122c22f101",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0211598a0cf24b6575ca0f6ef6ab67616d00001e0225a54937b43d7bc0f6fd9d77ab67616d00001e0229b65a326fbddf82717187b5ab67616d00001e0287afa5e41783b6122c22f101",
+                    "width": 60
+                }
+            ],
+            "name": "My DJ Party",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAEJ6F3zrg6nEA8WKCFSP/eYmYZKa5",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1IcFGS7aAGW4dJfZLSNjNb/tracks",
+                "total": 10
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1IcFGS7aAGW4dJfZLSNjNb"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/77gRRTeAKPipheeW51DHqI"
+            },
+            "href": "https://api.spotify.com/v1/playlists/77gRRTeAKPipheeW51DHqI",
+            "id": "77gRRTeAKPipheeW51DHqI",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e023992c7ab57975935b29fa22bab67616d00001e024e1ce5c19325a80d8300cb64ab67616d00001e026a5beb0500ad6e3b0f7aea22ab67616d00001e02e58775d8015f2ea0b85dc57d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e023992c7ab57975935b29fa22bab67616d00001e024e1ce5c19325a80d8300cb64ab67616d00001e026a5beb0500ad6e3b0f7aea22ab67616d00001e02e58775d8015f2ea0b85dc57d",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e023992c7ab57975935b29fa22bab67616d00001e024e1ce5c19325a80d8300cb64ab67616d00001e026a5beb0500ad6e3b0f7aea22ab67616d00001e02e58775d8015f2ea0b85dc57d",
+                    "width": 60
+                }
+            ],
+            "name": "Aa",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAr4p05O3ky2WQCMHUSafflvHbIvjR",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/77gRRTeAKPipheeW51DHqI/tracks",
+                "total": 162
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:77gRRTeAKPipheeW51DHqI"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1VILWEmVFJqRlBBgiXB8NA"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1VILWEmVFJqRlBBgiXB8NA",
+            "id": "1VILWEmVFJqRlBBgiXB8NA",
+            "images": null,
+            "name": "Drock",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAA8lkaGd3qZ38UwkPm2Ge5Ul+AMrF",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1VILWEmVFJqRlBBgiXB8NA/tracks",
+                "total": 0
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1VILWEmVFJqRlBBgiXB8NA"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/186aiu5eqNFuUtWmK8S77k"
+            },
+            "href": "https://api.spotify.com/v1/playlists/186aiu5eqNFuUtWmK8S77k",
+            "id": "186aiu5eqNFuUtWmK8S77k",
+            "images": null,
+            "name": "DHH1",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAD7tPTf2Ouvg+av/ded8/G0iJkiQC",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/186aiu5eqNFuUtWmK8S77k/tracks",
+                "total": 0
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:186aiu5eqNFuUtWmK8S77k"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2X0sienxW1BYxMN7m9vuoW"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2X0sienxW1BYxMN7m9vuoW",
+            "id": "2X0sienxW1BYxMN7m9vuoW",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a4ddaed4c7dc55e87a0507c3",
+                    "width": null
+                }
+            ],
+            "name": "Dground0",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAALP6CetYJJ1iklgF9CU6zscFEHIpD",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2X0sienxW1BYxMN7m9vuoW/tracks",
+                "total": 2
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2X0sienxW1BYxMN7m9vuoW"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/15snSTcsqP9x0uMbHXuojR"
+            },
+            "href": "https://api.spotify.com/v1/playlists/15snSTcsqP9x0uMbHXuojR",
+            "id": "15snSTcsqP9x0uMbHXuojR",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e024581e108d982f597c77820b6ab67616d00001e025430d69fdb1bb8f076d585f0ab67616d00001e0271b9a8dd2e292363d48cd346ef9b95184c7d04a48d71f75a74ec29874ac42eb2",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e024581e108d982f597c77820b6ab67616d00001e025430d69fdb1bb8f076d585f0ab67616d00001e0271b9a8dd2e292363d48cd346ef9b95184c7d04a48d71f75a74ec29874ac42eb2",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e024581e108d982f597c77820b6ab67616d00001e025430d69fdb1bb8f076d585f0ab67616d00001e0271b9a8dd2e292363d48cd346ef9b95184c7d04a48d71f75a74ec29874ac42eb2",
+                    "width": 60
+                }
+            ],
+            "name": "Dground2",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAL/2OM6tmmA+B6SG5nmbTmtLN8jdb",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/15snSTcsqP9x0uMbHXuojR/tracks",
+                "total": 7
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:15snSTcsqP9x0uMbHXuojR"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2DHhUgSuU0GmeWHkkAHo2w"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2DHhUgSuU0GmeWHkkAHo2w",
+            "id": "2DHhUgSuU0GmeWHkkAHo2w",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67616d00001e028c26b57a410599a70ef96fb2",
+                    "width": null
+                }
+            ],
+            "name": "Dhebrew",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAJyMONsGSsMQRjxYbY2WBK3C/I+/y",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2DHhUgSuU0GmeWHkkAHo2w/tracks",
+                "total": 1
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2DHhUgSuU0GmeWHkkAHo2w"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6cQeED1TW740rwg1ChPorv"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6cQeED1TW740rwg1ChPorv",
+            "id": "6cQeED1TW740rwg1ChPorv",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02df48ee32d98ed2c1422d5804",
+                    "width": null
+                }
+            ],
+            "name": "Dground1",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAMULqAt6G++lksYtkRcfMjDR/05zt",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6cQeED1TW740rwg1ChPorv/tracks",
+                "total": 3
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6cQeED1TW740rwg1ChPorv"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6EfbPCgtZgfQc6THT6PK8W"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6EfbPCgtZgfQc6THT6PK8W",
+            "id": "6EfbPCgtZgfQc6THT6PK8W",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e023dc13c750fb6f5fe5151ddacab67616d00001e02a5ed46bab8b01d04f679787aab67616d00001e02a724f0a2c23fdc0ef98201b8ab67616d00001e02bcc8cce0e2fa4f6e990fea63",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e023dc13c750fb6f5fe5151ddacab67616d00001e02a5ed46bab8b01d04f679787aab67616d00001e02a724f0a2c23fdc0ef98201b8ab67616d00001e02bcc8cce0e2fa4f6e990fea63",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e023dc13c750fb6f5fe5151ddacab67616d00001e02a5ed46bab8b01d04f679787aab67616d00001e02a724f0a2c23fdc0ef98201b8ab67616d00001e02bcc8cce0e2fa4f6e990fea63",
+                    "width": 60
+                }
+            ],
+            "name": "Dground3",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAK/b+4npeGkB9AjkJFz2N95qJHkk2",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6EfbPCgtZgfQc6THT6PK8W/tracks",
+                "total": 5
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6EfbPCgtZgfQc6THT6PK8W"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1rVFqZdU5YSFSGlINBBiSQ"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1rVFqZdU5YSFSGlINBBiSQ",
+            "id": "1rVFqZdU5YSFSGlINBBiSQ",
+            "images": null,
+            "name": "ErrorDownloads",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAGdpUkr/hD0M3152l/YZvgirLQac+",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1rVFqZdU5YSFSGlINBBiSQ/tracks",
+                "total": 0
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1rVFqZdU5YSFSGlINBBiSQ"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6cuJEVZpJMQAZ43cVn8VhD"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6cuJEVZpJMQAZ43cVn8VhD",
+            "id": "6cuJEVZpJMQAZ43cVn8VhD",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d95e466f700600c728f478b6",
+                    "width": null
+                }
+            ],
+            "name": "DarkDisco",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAABDlIjGo0XQXW7pZBF3tXQJm+5Cwl",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6cuJEVZpJMQAZ43cVn8VhD/tracks",
+                "total": 3
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6cuJEVZpJMQAZ43cVn8VhD"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2g3KEPR6pecVBBqYoZpEme"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2g3KEPR6pecVBBqYoZpEme",
+            "id": "2g3KEPR6pecVBBqYoZpEme",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e020949c5a5ad8bec4bebacc47dab67616d00001e0278c35340eac7e45824d47830ab67616d00001e029b19c107109de740bad72df5ab67616d00001e02f8e77075414234fd77fce32b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e020949c5a5ad8bec4bebacc47dab67616d00001e0278c35340eac7e45824d47830ab67616d00001e029b19c107109de740bad72df5ab67616d00001e02f8e77075414234fd77fce32b",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e020949c5a5ad8bec4bebacc47dab67616d00001e0278c35340eac7e45824d47830ab67616d00001e029b19c107109de740bad72df5ab67616d00001e02f8e77075414234fd77fce32b",
+                    "width": 60
+                }
+            ],
+            "name": "hh 3",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAACgODXEuvhs68DEEJ3JNfKmtNMpkl",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2g3KEPR6pecVBBqYoZpEme/tracks",
+                "total": 8
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2g3KEPR6pecVBBqYoZpEme"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/12kuh2K6l4j94C9LHDtZww"
+            },
+            "href": "https://api.spotify.com/v1/playlists/12kuh2K6l4j94C9LHDtZww",
+            "id": "12kuh2K6l4j94C9LHDtZww",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e020fc3d673f19088e67c6c949eab67616d00001e02468cca3ed7be668730c3da25ab67616d00001e026407aa9a5e5215cf554ad5d1ab67616d00001e029b9b36b0e22870b9f542d937",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e020fc3d673f19088e67c6c949eab67616d00001e02468cca3ed7be668730c3da25ab67616d00001e026407aa9a5e5215cf554ad5d1ab67616d00001e029b9b36b0e22870b9f542d937",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e020fc3d673f19088e67c6c949eab67616d00001e02468cca3ed7be668730c3da25ab67616d00001e026407aa9a5e5215cf554ad5d1ab67616d00001e029b9b36b0e22870b9f542d937",
+                    "width": 60
+                }
+            ],
+            "name": "pop 3",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAFJSk9/Ft/G6lDfquULfotdBMWzb+",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/12kuh2K6l4j94C9LHDtZww/tracks",
+                "total": 17
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:12kuh2K6l4j94C9LHDtZww"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1zNy953hEQ7h3zabEtgNzF"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1zNy953hEQ7h3zabEtgNzF",
+            "id": "1zNy953hEQ7h3zabEtgNzF",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e025ef4660298ae29ee18799fc2ab67616d00001e02c39aa62b10cea6cd2c2c1ed8ab67616d00001e02cd9d8bc9ef04014b6e90e182ab67616d00001e02e56fa8c916dc6ce419dcf557",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e025ef4660298ae29ee18799fc2ab67616d00001e02c39aa62b10cea6cd2c2c1ed8ab67616d00001e02cd9d8bc9ef04014b6e90e182ab67616d00001e02e56fa8c916dc6ce419dcf557",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e025ef4660298ae29ee18799fc2ab67616d00001e02c39aa62b10cea6cd2c2c1ed8ab67616d00001e02cd9d8bc9ef04014b6e90e182ab67616d00001e02e56fa8c916dc6ce419dcf557",
+                    "width": 60
+                }
+            ],
+            "name": "rock 3",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAMKDL7qDlGdolU6COV8A1nB5Yw9Ev",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1zNy953hEQ7h3zabEtgNzF/tracks",
+                "total": 74
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1zNy953hEQ7h3zabEtgNzF"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4IFinUKLX1PtxOc2FWa0p6"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4IFinUKLX1PtxOc2FWa0p6",
+            "id": "4IFinUKLX1PtxOc2FWa0p6",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0216aaf05fe82237576a7d0e38ab67616d00001e0220ee3e86e17f17239bef1f76ab67616d00001e0275f3c7de2357809b5acceb73ab67616d00001e0286e5468d84ed66f06d9a799e",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0216aaf05fe82237576a7d0e38ab67616d00001e0220ee3e86e17f17239bef1f76ab67616d00001e0275f3c7de2357809b5acceb73ab67616d00001e0286e5468d84ed66f06d9a799e",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0216aaf05fe82237576a7d0e38ab67616d00001e0220ee3e86e17f17239bef1f76ab67616d00001e0275f3c7de2357809b5acceb73ab67616d00001e0286e5468d84ed66f06d9a799e",
+                    "width": 60
+                }
+            ],
+            "name": "old 3",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAACJG8Su7rsnmYhtskMwZilLoUVN08",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4IFinUKLX1PtxOc2FWa0p6/tracks",
+                "total": 6
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4IFinUKLX1PtxOc2FWa0p6"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/28FnTlAPh9q9HP2WakO5FY"
+            },
+            "href": "https://api.spotify.com/v1/playlists/28FnTlAPh9q9HP2WakO5FY",
+            "id": "28FnTlAPh9q9HP2WakO5FY",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e024141f13dc323460250927606ab67616d00001e025d6121285c42ea4535e59048ab67616d00001e02a727272868ef7aa405548a2dab67616d00001e02e1afa83bd73aa80c0ff0ee34",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e024141f13dc323460250927606ab67616d00001e025d6121285c42ea4535e59048ab67616d00001e02a727272868ef7aa405548a2dab67616d00001e02e1afa83bd73aa80c0ff0ee34",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e024141f13dc323460250927606ab67616d00001e025d6121285c42ea4535e59048ab67616d00001e02a727272868ef7aa405548a2dab67616d00001e02e1afa83bd73aa80c0ff0ee34",
+                    "width": 60
+                }
+            ],
+            "name": "mainstream 3",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAADY4ZIuXQEfv7rAJQ9p5GQclBCkPp",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/28FnTlAPh9q9HP2WakO5FY/tracks",
+                "total": 8
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:28FnTlAPh9q9HP2WakO5FY"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/7HxYqdHe1RyzbfUGjAun8N"
+            },
+            "href": "https://api.spotify.com/v1/playlists/7HxYqdHe1RyzbfUGjAun8N",
+            "id": "7HxYqdHe1RyzbfUGjAun8N",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e024141f13dc323460250927606ab67616d00001e02468cca3ed7be668730c3da25ab67616d00001e025edfd45a179140bd64f45a5dab67616d00001e0275f3c7de2357809b5acceb73",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e024141f13dc323460250927606ab67616d00001e02468cca3ed7be668730c3da25ab67616d00001e025edfd45a179140bd64f45a5dab67616d00001e0275f3c7de2357809b5acceb73",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e024141f13dc323460250927606ab67616d00001e02468cca3ed7be668730c3da25ab67616d00001e025edfd45a179140bd64f45a5dab67616d00001e0275f3c7de2357809b5acceb73",
+                    "width": 60
+                }
+            ],
+            "name": "hebrew 3",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAEY6mmpl3jOU723hcdbT6saJqNP3o",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/7HxYqdHe1RyzbfUGjAun8N/tracks",
+                "total": 15
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7HxYqdHe1RyzbfUGjAun8N"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/39wDVQXGf0vGWCafJ5459D"
+            },
+            "href": "https://api.spotify.com/v1/playlists/39wDVQXGf0vGWCafJ5459D",
+            "id": "39wDVQXGf0vGWCafJ5459D",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e020c57055d9464281e051b09d1ab67616d00001e02499c6d2eaeb941d76acdfe41ab67616d00001e024ee9468123f381eb8d5e05bbab67616d00001e026e50e461ae44616757b2574b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e020c57055d9464281e051b09d1ab67616d00001e02499c6d2eaeb941d76acdfe41ab67616d00001e024ee9468123f381eb8d5e05bbab67616d00001e026e50e461ae44616757b2574b",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e020c57055d9464281e051b09d1ab67616d00001e02499c6d2eaeb941d76acdfe41ab67616d00001e024ee9468123f381eb8d5e05bbab67616d00001e026e50e461ae44616757b2574b",
+                    "width": 60
+                }
+            ],
+            "name": "ground 3",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAy4A+MSEK/wdRYmwSSBuCT6wxvhh8",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/39wDVQXGf0vGWCafJ5459D/tracks",
+                "total": 26
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:39wDVQXGf0vGWCafJ5459D"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0nZn2IVtR6IjYUuYvQciQA"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0nZn2IVtR6IjYUuYvQciQA",
+            "id": "0nZn2IVtR6IjYUuYvQciQA",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e023a478144ef5080e887d0f1c7ab67616d00001e0261468681d2a3aeee7b125cc2ab67616d00001e02d5b550647f778a5327432841ab67616d00001e02e11e3d300d8759c5fa11e7ec",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e023a478144ef5080e887d0f1c7ab67616d00001e0261468681d2a3aeee7b125cc2ab67616d00001e02d5b550647f778a5327432841ab67616d00001e02e11e3d300d8759c5fa11e7ec",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e023a478144ef5080e887d0f1c7ab67616d00001e0261468681d2a3aeee7b125cc2ab67616d00001e02d5b550647f778a5327432841ab67616d00001e02e11e3d300d8759c5fa11e7ec",
+                    "width": 60
+                }
+            ],
+            "name": "hh 2",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAABgrUyjLV5NMBJPfDQi62Ci5D0ISO",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0nZn2IVtR6IjYUuYvQciQA/tracks",
+                "total": 4
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0nZn2IVtR6IjYUuYvQciQA"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6fVaVfzEhlU1a1aaDc8yKe"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6fVaVfzEhlU1a1aaDc8yKe",
+            "id": "6fVaVfzEhlU1a1aaDc8yKe",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e02476cdf5837ae39eee951cc15ab67616d00001e026407aa9a5e5215cf554ad5d1ab67616d00001e0276ffb5b5ab045d22c81235c1ab67616d00001e028b32b139981e79f2ebe005eb",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e02476cdf5837ae39eee951cc15ab67616d00001e026407aa9a5e5215cf554ad5d1ab67616d00001e0276ffb5b5ab045d22c81235c1ab67616d00001e028b32b139981e79f2ebe005eb",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e02476cdf5837ae39eee951cc15ab67616d00001e026407aa9a5e5215cf554ad5d1ab67616d00001e0276ffb5b5ab045d22c81235c1ab67616d00001e028b32b139981e79f2ebe005eb",
+                    "width": 60
+                }
+            ],
+            "name": "rock 2",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAGiGMssMtxDY4mTSc0bYu4qqPCWKM",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6fVaVfzEhlU1a1aaDc8yKe/tracks",
+                "total": 22
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6fVaVfzEhlU1a1aaDc8yKe"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0SjZkc2WSQrYSlgvtaF3dv"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0SjZkc2WSQrYSlgvtaF3dv",
+            "id": "0SjZkc2WSQrYSlgvtaF3dv",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e02476cdf5837ae39eee951cc15ab67616d00001e025d6121285c42ea4535e59048ab67616d00001e02c6710b4a52539506c30e5354ab67616d00001e02efc6988972cb04105f002cd4",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e02476cdf5837ae39eee951cc15ab67616d00001e025d6121285c42ea4535e59048ab67616d00001e02c6710b4a52539506c30e5354ab67616d00001e02efc6988972cb04105f002cd4",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e02476cdf5837ae39eee951cc15ab67616d00001e025d6121285c42ea4535e59048ab67616d00001e02c6710b4a52539506c30e5354ab67616d00001e02efc6988972cb04105f002cd4",
+                    "width": 60
+                }
+            ],
+            "name": "mainstream 2",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAF5plPROCotWyyMfDKizaSlccktJK",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0SjZkc2WSQrYSlgvtaF3dv/tracks",
+                "total": 18
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0SjZkc2WSQrYSlgvtaF3dv"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4d63jhHdRNjrqpeFTPRupj"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4d63jhHdRNjrqpeFTPRupj",
+            "id": "4d63jhHdRNjrqpeFTPRupj",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0243a58a3269fa18d1e4f8b5caab67616d00001e026407aa9a5e5215cf554ad5d1ab67616d00001e029b9b36b0e22870b9f542d937ab67616d00001e02e58775d8015f2ea0b85dc57d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0243a58a3269fa18d1e4f8b5caab67616d00001e026407aa9a5e5215cf554ad5d1ab67616d00001e029b9b36b0e22870b9f542d937ab67616d00001e02e58775d8015f2ea0b85dc57d",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0243a58a3269fa18d1e4f8b5caab67616d00001e026407aa9a5e5215cf554ad5d1ab67616d00001e029b9b36b0e22870b9f542d937ab67616d00001e02e58775d8015f2ea0b85dc57d",
+                    "width": 60
+                }
+            ],
+            "name": "pop 2",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAGC403gNAGXhIyHdAqGq51Gml7F84",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4d63jhHdRNjrqpeFTPRupj/tracks",
+                "total": 19
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4d63jhHdRNjrqpeFTPRupj"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2jm25WBLY3u4HrGmzGG8uF"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2jm25WBLY3u4HrGmzGG8uF",
+            "id": "2jm25WBLY3u4HrGmzGG8uF",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0241f185fc30af51cdba12c4a8ab67616d00001e025ba811d67687af46da44cdeeab67616d00001e028b90b371248a27daa7e3d774ab67616d00001e02bdcea025a483b9642f17a9f8",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0241f185fc30af51cdba12c4a8ab67616d00001e025ba811d67687af46da44cdeeab67616d00001e028b90b371248a27daa7e3d774ab67616d00001e02bdcea025a483b9642f17a9f8",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0241f185fc30af51cdba12c4a8ab67616d00001e025ba811d67687af46da44cdeeab67616d00001e028b90b371248a27daa7e3d774ab67616d00001e02bdcea025a483b9642f17a9f8",
+                    "width": 60
+                }
+            ],
+            "name": "old 2",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAH2qfndVr7AhICPR5a0YgLtG72CkF",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2jm25WBLY3u4HrGmzGG8uF/tracks",
+                "total": 23
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2jm25WBLY3u4HrGmzGG8uF"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6G4LghM7Qk2ILIOsEksdJ4"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6G4LghM7Qk2ILIOsEksdJ4",
+            "id": "6G4LghM7Qk2ILIOsEksdJ4",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0223507323ccbdfeb6fac23754ab67616d00001e02466e1741a68f46bf877e0f46ab67616d00001e02b13b4f02b949be854565aaafab67616d00001e02eba899c9604dbb29603a8f24",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0223507323ccbdfeb6fac23754ab67616d00001e02466e1741a68f46bf877e0f46ab67616d00001e02b13b4f02b949be854565aaafab67616d00001e02eba899c9604dbb29603a8f24",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0223507323ccbdfeb6fac23754ab67616d00001e02466e1741a68f46bf877e0f46ab67616d00001e02b13b4f02b949be854565aaafab67616d00001e02eba899c9604dbb29603a8f24",
+                    "width": 60
+                }
+            ],
+            "name": "hebrew 2",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAHfCoLN0cQsH6ArCGLgM6qM8uNX/i",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6G4LghM7Qk2ILIOsEksdJ4/tracks",
+                "total": 24
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6G4LghM7Qk2ILIOsEksdJ4"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0YeLN85pcADXVqrZyX0l2G"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0YeLN85pcADXVqrZyX0l2G",
+            "id": "0YeLN85pcADXVqrZyX0l2G",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e025c026db0bfd139e2379d2b6fab67616d00001e028a6473b6582883faf0e9d7dcab67616d00001e02b6efd26ce36980c408104fa0ab67616d00001e02eb35dca240cdca649d47fc24",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e025c026db0bfd139e2379d2b6fab67616d00001e028a6473b6582883faf0e9d7dcab67616d00001e02b6efd26ce36980c408104fa0ab67616d00001e02eb35dca240cdca649d47fc24",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e025c026db0bfd139e2379d2b6fab67616d00001e028a6473b6582883faf0e9d7dcab67616d00001e02b6efd26ce36980c408104fa0ab67616d00001e02eb35dca240cdca649d47fc24",
+                    "width": 60
+                }
+            ],
+            "name": "ground 2",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAABRU1PAOKYLzuFciMfzTCBDcBUuglZ",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0YeLN85pcADXVqrZyX0l2G/tracks",
+                "total": 46
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0YeLN85pcADXVqrZyX0l2G"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/07NMuks3h6UV69KlRIskyO"
+            },
+            "href": "https://api.spotify.com/v1/playlists/07NMuks3h6UV69KlRIskyO",
+            "id": "07NMuks3h6UV69KlRIskyO",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e021d2ea2d775fa592e8f111b05ab67616d00001e024141f13dc323460250927606ab67616d00001e0250499773f05f367cc95796abab67616d00001e02b7f985b8996f157cc5883ef1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e021d2ea2d775fa592e8f111b05ab67616d00001e024141f13dc323460250927606ab67616d00001e0250499773f05f367cc95796abab67616d00001e02b7f985b8996f157cc5883ef1",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e021d2ea2d775fa592e8f111b05ab67616d00001e024141f13dc323460250927606ab67616d00001e0250499773f05f367cc95796abab67616d00001e02b7f985b8996f157cc5883ef1",
+                    "width": 60
+                }
+            ],
+            "name": "hh 1",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAB6jbX4JDMZMO4Zr7R8wPuYkXJpkd",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/07NMuks3h6UV69KlRIskyO/tracks",
+                "total": 5
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:07NMuks3h6UV69KlRIskyO"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4Zzm1YwxjmvARgyj6kWiIL"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4Zzm1YwxjmvARgyj6kWiIL",
+            "id": "4Zzm1YwxjmvARgyj6kWiIL",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0223619cddce5953910a4bde14ab67616d00001e025c9890c0456a3719eeecd8aaab67616d00001e02b960d1d7a8736b6ab1014ad3ab67616d00001e02ba26678947112dff3c3158bf",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0223619cddce5953910a4bde14ab67616d00001e025c9890c0456a3719eeecd8aaab67616d00001e02b960d1d7a8736b6ab1014ad3ab67616d00001e02ba26678947112dff3c3158bf",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0223619cddce5953910a4bde14ab67616d00001e025c9890c0456a3719eeecd8aaab67616d00001e02b960d1d7a8736b6ab1014ad3ab67616d00001e02ba26678947112dff3c3158bf",
+                    "width": 60
+                }
+            ],
+            "name": "pop 1",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAHkidkRtui+ybSYDwjm2TcC74AAXu",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4Zzm1YwxjmvARgyj6kWiIL/tracks",
+                "total": 21
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4Zzm1YwxjmvARgyj6kWiIL"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2vLKIeLEQjf96ccr7Zmtzw"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2vLKIeLEQjf96ccr7Zmtzw",
+            "id": "2vLKIeLEQjf96ccr7Zmtzw",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0218f67c4208b5960a0df6a232ab67616d00001e023d165d7f2ddc27a2cbe3ce97ab67616d00001e028de183ed1d8a24490cddc55bab67616d00001e028fd9ca5b3c5e907e1ed2b2ce",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0218f67c4208b5960a0df6a232ab67616d00001e023d165d7f2ddc27a2cbe3ce97ab67616d00001e028de183ed1d8a24490cddc55bab67616d00001e028fd9ca5b3c5e907e1ed2b2ce",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0218f67c4208b5960a0df6a232ab67616d00001e023d165d7f2ddc27a2cbe3ce97ab67616d00001e028de183ed1d8a24490cddc55bab67616d00001e028fd9ca5b3c5e907e1ed2b2ce",
+                    "width": 60
+                }
+            ],
+            "name": "hebrew 1",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAIH/OA4+tl5Su2ifH7Y9T1SrW2Iq1",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2vLKIeLEQjf96ccr7Zmtzw/tracks",
+                "total": 32
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2vLKIeLEQjf96ccr7Zmtzw"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5ptPNBXpSt3zdjXYdQ6sIB"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5ptPNBXpSt3zdjXYdQ6sIB",
+            "id": "5ptPNBXpSt3zdjXYdQ6sIB",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e02480beb08639f79e39c757892ab67616d00001e02900011a8458275558f9779a4ab67616d00001e029e1cfc756886ac782e363d79ab67616d00001e02e7df5c52a159c0a80c6f4f61",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e02480beb08639f79e39c757892ab67616d00001e02900011a8458275558f9779a4ab67616d00001e029e1cfc756886ac782e363d79ab67616d00001e02e7df5c52a159c0a80c6f4f61",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e02480beb08639f79e39c757892ab67616d00001e02900011a8458275558f9779a4ab67616d00001e029e1cfc756886ac782e363d79ab67616d00001e02e7df5c52a159c0a80c6f4f61",
+                    "width": 60
+                }
+            ],
+            "name": "rock 1",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAACrD0RN+ndtMEo6frhZlyXCH28ev/",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5ptPNBXpSt3zdjXYdQ6sIB/tracks",
+                "total": 7
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5ptPNBXpSt3zdjXYdQ6sIB"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2cEVlH224tdG5ux06moH27"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2cEVlH224tdG5ux06moH27",
+            "id": "2cEVlH224tdG5ux06moH27",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0225a54937b43d7bc0f6fd9d77ab67616d00001e0287afa5e41783b6122c22f101ab67616d00001e0291f442ef24b8410ec1e68003ab67616d00001e02c51a87b5426dc94d717081ee",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0225a54937b43d7bc0f6fd9d77ab67616d00001e0287afa5e41783b6122c22f101ab67616d00001e0291f442ef24b8410ec1e68003ab67616d00001e02c51a87b5426dc94d717081ee",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0225a54937b43d7bc0f6fd9d77ab67616d00001e0287afa5e41783b6122c22f101ab67616d00001e0291f442ef24b8410ec1e68003ab67616d00001e02c51a87b5426dc94d717081ee",
+                    "width": 60
+                }
+            ],
+            "name": "ground 1",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAABtVA1lsmzbZr8sTG0RToEcfVs4PRT",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2cEVlH224tdG5ux06moH27/tracks",
+                "total": 77
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2cEVlH224tdG5ux06moH27"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5HonEc6LBkQPiOrn27sVQY"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5HonEc6LBkQPiOrn27sVQY",
+            "id": "5HonEc6LBkQPiOrn27sVQY",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0207d3de253ec02c26c04b95f1ab67616d00001e02aa22899360d8ba6704732decab67616d00001e02bec355c28a61688b0e8b3f01ab67616d00001e02f9742033ffb15f5413898ef9",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0207d3de253ec02c26c04b95f1ab67616d00001e02aa22899360d8ba6704732decab67616d00001e02bec355c28a61688b0e8b3f01ab67616d00001e02f9742033ffb15f5413898ef9",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0207d3de253ec02c26c04b95f1ab67616d00001e02aa22899360d8ba6704732decab67616d00001e02bec355c28a61688b0e8b3f01ab67616d00001e02f9742033ffb15f5413898ef9",
+                    "width": 60
+                }
+            ],
+            "name": "old 1",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAERFj8yBPnILsWeScUQY4p4fSV4PK",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5HonEc6LBkQPiOrn27sVQY/tracks",
+                "total": 17
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5HonEc6LBkQPiOrn27sVQY"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6yCboTKDPk3zMLmifuHi1Y"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6yCboTKDPk3zMLmifuHi1Y",
+            "id": "6yCboTKDPk3zMLmifuHi1Y",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e021ca01773a293ac400bb300fbab67616d00001e0226d73ab8423a350faa5d395aab67616d00001e029e8a9f316d3e485e2c62fe87ab67616d00001e02c137319751a89295f921cce8",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e021ca01773a293ac400bb300fbab67616d00001e0226d73ab8423a350faa5d395aab67616d00001e029e8a9f316d3e485e2c62fe87ab67616d00001e02c137319751a89295f921cce8",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e021ca01773a293ac400bb300fbab67616d00001e0226d73ab8423a350faa5d395aab67616d00001e029e8a9f316d3e485e2c62fe87ab67616d00001e02c137319751a89295f921cce8",
+                    "width": 60
+                }
+            ],
+            "name": "mainstream 1",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAO9UusrQRSz41a7S5McRriy5D1Z70",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6yCboTKDPk3zMLmifuHi1Y/tracks",
+                "total": 59
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6yCboTKDPk3zMLmifuHi1Y"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/29FB2FXBijKx8XSHd72UgE"
+            },
+            "href": "https://api.spotify.com/v1/playlists/29FB2FXBijKx8XSHd72UgE",
+            "id": "29FB2FXBijKx8XSHd72UgE",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e021fc63c898797e3dbf04ad611ab67616d00001e025579d8a505c727349a203074ab67616d00001e026f5a9bf7c8093763dd2a4a82ab67616d00001e0298dc3e242a818007dd67b7c5",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e021fc63c898797e3dbf04ad611ab67616d00001e025579d8a505c727349a203074ab67616d00001e026f5a9bf7c8093763dd2a4a82ab67616d00001e0298dc3e242a818007dd67b7c5",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e021fc63c898797e3dbf04ad611ab67616d00001e025579d8a505c727349a203074ab67616d00001e026f5a9bf7c8093763dd2a4a82ab67616d00001e0298dc3e242a818007dd67b7c5",
+                    "width": 60
+                }
+            ],
+            "name": "Pairs",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAADSRTHK6KVtTEknAi+e0Gcz6+cLg/",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/29FB2FXBijKx8XSHd72UgE/tracks",
+                "total": 8
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:29FB2FXBijKx8XSHd72UgE"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6yrZvFjwAqGhYwOjQ7m5h0"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6yrZvFjwAqGhYwOjQ7m5h0",
+            "id": "6yrZvFjwAqGhYwOjQ7m5h0",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029956e0555088872583d0da65",
+                    "width": null
+                }
+            ],
+            "name": "Africa",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAA9DusYrivNFPWLFlkq0IjGffrXz5",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6yrZvFjwAqGhYwOjQ7m5h0/tracks",
+                "total": 2
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6yrZvFjwAqGhYwOjQ7m5h0"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/792YKYqiqow3fdS9w9Cu2x"
+            },
+            "href": "https://api.spotify.com/v1/playlists/792YKYqiqow3fdS9w9Cu2x",
+            "id": "792YKYqiqow3fdS9w9Cu2x",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02cd2086bb8aab4cfb3ec6b651",
+                    "width": null
+                }
+            ],
+            "name": "HH1",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAAspD0F1AKE1S7LkNpRXootL1AN+j",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/792YKYqiqow3fdS9w9Cu2x/tracks",
+                "total": 1
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:792YKYqiqow3fdS9w9Cu2x"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/7KLF3ICCbkZ9yW46XHgmJi"
+            },
+            "href": "https://api.spotify.com/v1/playlists/7KLF3ICCbkZ9yW46XHgmJi",
+            "id": "7KLF3ICCbkZ9yW46XHgmJi",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67616d00001e022e6a43994d4436a47a2fda30",
+                    "width": null
+                }
+            ],
+            "name": "New Hebrew party",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAAyRwL3c3Rs6zDI5KclSI1GEKk8yY",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/7KLF3ICCbkZ9yW46XHgmJi/tracks",
+                "total": 2
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7KLF3ICCbkZ9yW46XHgmJi"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/105xPkCPxB6HgklVAiv0jI"
+            },
+            "href": "https://api.spotify.com/v1/playlists/105xPkCPxB6HgklVAiv0jI",
+            "id": "105xPkCPxB6HgklVAiv0jI",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0225b055377757b3cdd6f26b78",
+                    "width": null
+                }
+            ],
+            "name": "HH2",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAAinuSZYx+jeI9PoJ+TH8nzvLdpWx",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/105xPkCPxB6HgklVAiv0jI/tracks",
+                "total": 1
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:105xPkCPxB6HgklVAiv0jI"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5rVyMwlbtkIJV16vKiwBN0"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5rVyMwlbtkIJV16vKiwBN0",
+            "id": "5rVyMwlbtkIJV16vKiwBN0",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e024ccd521ab93bba3e49a38848ab67616d00001e02697b34077037dc3d838fcb75ab67616d00001e028c296a5c0aed94b520af69c6ab67616d00001e029367c1ee2eec0bf3a04b4868",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e024ccd521ab93bba3e49a38848ab67616d00001e02697b34077037dc3d838fcb75ab67616d00001e028c296a5c0aed94b520af69c6ab67616d00001e029367c1ee2eec0bf3a04b4868",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e024ccd521ab93bba3e49a38848ab67616d00001e02697b34077037dc3d838fcb75ab67616d00001e028c296a5c0aed94b520af69c6ab67616d00001e029367c1ee2eec0bf3a04b4868",
+                    "width": 60
+                }
+            ],
+            "name": "NewGround0",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAC/2DGGhGDrPvbvVvkSQvJtwvsCuB",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5rVyMwlbtkIJV16vKiwBN0/tracks",
+                "total": 10
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5rVyMwlbtkIJV16vKiwBN0"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6GxXa3tJN2tkxqx41BHNnc"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6GxXa3tJN2tkxqx41BHNnc",
+            "id": "6GxXa3tJN2tkxqx41BHNnc",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e020f0f71479117b67e3fe2e0a4ab67616d00001e0229b65a326fbddf82717187b5ab67616d00001e0287ea7bfb48aed818be6bbe93ab67616d00001e0295fdb9b2f3151fe7cecd6147",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e020f0f71479117b67e3fe2e0a4ab67616d00001e0229b65a326fbddf82717187b5ab67616d00001e0287ea7bfb48aed818be6bbe93ab67616d00001e0295fdb9b2f3151fe7cecd6147",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e020f0f71479117b67e3fe2e0a4ab67616d00001e0229b65a326fbddf82717187b5ab67616d00001e0287ea7bfb48aed818be6bbe93ab67616d00001e0295fdb9b2f3151fe7cecd6147",
+                    "width": 60
+                }
+            ],
+            "name": "NewGround1",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAADvHNgj/b9hZs9FW/XRU4rH1rLcla",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6GxXa3tJN2tkxqx41BHNnc/tracks",
+                "total": 13
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6GxXa3tJN2tkxqx41BHNnc"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5GMB5HvDHnE6mFogEmA1mM"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5GMB5HvDHnE6mFogEmA1mM",
+            "id": "5GMB5HvDHnE6mFogEmA1mM",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e022c0505a0ef47c948c34766b7ab67616d00001e0245546ed4af1a0d4c58a8ff50ab67616d00001e024bc66095f8a70bc4e6593f4fab67616d00001e02cbcb5083c56df2a557625bca",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e022c0505a0ef47c948c34766b7ab67616d00001e0245546ed4af1a0d4c58a8ff50ab67616d00001e024bc66095f8a70bc4e6593f4fab67616d00001e02cbcb5083c56df2a557625bca",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e022c0505a0ef47c948c34766b7ab67616d00001e0245546ed4af1a0d4c58a8ff50ab67616d00001e024bc66095f8a70bc4e6593f4fab67616d00001e02cbcb5083c56df2a557625bca",
+                    "width": 60
+                }
+            ],
+            "name": "NewGround2",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAACn60nsNxHrxF5ckxVesL2ciru1o1",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5GMB5HvDHnE6mFogEmA1mM/tracks",
+                "total": 6
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5GMB5HvDHnE6mFogEmA1mM"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4xiPqnubyhiBM8ENDfrvdl"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4xiPqnubyhiBM8ENDfrvdl",
+            "id": "4xiPqnubyhiBM8ENDfrvdl",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0206bf9da607ff3ee19137f060ab67616d00001e0222f1b6c28ce5735646b2e569ab67616d00001e028ec81cc654b45ade8bdf1486ab67616d00001e02a1e4875ae577615f007b87fc",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0206bf9da607ff3ee19137f060ab67616d00001e0222f1b6c28ce5735646b2e569ab67616d00001e028ec81cc654b45ade8bdf1486ab67616d00001e02a1e4875ae577615f007b87fc",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0206bf9da607ff3ee19137f060ab67616d00001e0222f1b6c28ce5735646b2e569ab67616d00001e028ec81cc654b45ade8bdf1486ab67616d00001e02a1e4875ae577615f007b87fc",
+                    "width": 60
+                }
+            ],
+            "name": "NewAppetizers",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAFHGMObtVslSHQOV8dAp3rKBctKf2",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4xiPqnubyhiBM8ENDfrvdl/tracks",
+                "total": 16
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4xiPqnubyhiBM8ENDfrvdl"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2SveLv06v6GOKvBYEmuaOO"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2SveLv06v6GOKvBYEmuaOO",
+            "id": "2SveLv06v6GOKvBYEmuaOO",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e020b3dcd1fd0d85f3721625c03ab67616d00001e021fc63c898797e3dbf04ad611ab67616d00001e026a8d65ba6bccaafaf4b2e42cab67616d00001e02f7d4804d65d858d31b0da017",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e020b3dcd1fd0d85f3721625c03ab67616d00001e021fc63c898797e3dbf04ad611ab67616d00001e026a8d65ba6bccaafaf4b2e42cab67616d00001e02f7d4804d65d858d31b0da017",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e020b3dcd1fd0d85f3721625c03ab67616d00001e021fc63c898797e3dbf04ad611ab67616d00001e026a8d65ba6bccaafaf4b2e42cab67616d00001e02f7d4804d65d858d31b0da017",
+                    "width": 60
+                }
+            ],
+            "name": "From shiran",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAAga3rP0W+F8fiDmeWAI+ZBYBYsM1",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2SveLv06v6GOKvBYEmuaOO/tracks",
+                "total": 80
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2SveLv06v6GOKvBYEmuaOO"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4CHXChXJZk01qAH4m33HE4"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4CHXChXJZk01qAH4m33HE4",
+            "id": "4CHXChXJZk01qAH4m33HE4",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0279ac84696fa8624e97684d27ab67616d00001e029d7f1963c45b177c8068ea28ab67616d00001e02ad22850e8e243b8c40b7594bab67616d00001e02da6cec854395d93d889d4be7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0279ac84696fa8624e97684d27ab67616d00001e029d7f1963c45b177c8068ea28ab67616d00001e02ad22850e8e243b8c40b7594bab67616d00001e02da6cec854395d93d889d4be7",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0279ac84696fa8624e97684d27ab67616d00001e029d7f1963c45b177c8068ea28ab67616d00001e02ad22850e8e243b8c40b7594bab67616d00001e02da6cec854395d93d889d4be7",
+                    "width": 60
+                }
+            ],
+            "name": "Late night rock",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAKPwLcmApFNlBoYOho3SzjajWUy9j",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4CHXChXJZk01qAH4m33HE4/tracks",
+                "total": 31
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4CHXChXJZk01qAH4m33HE4"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6CWtp4yMz6POJKQieLShi3"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6CWtp4yMz6POJKQieLShi3",
+            "id": "6CWtp4yMz6POJKQieLShi3",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e02142ac21051d8ae72505d0f6eab67616d00001e023f66b5b49ccea004a5ef0db2ab67616d00001e02aaa9d84415623c1e790cd07bab67616d00001e02fc059cbb608cdde573b86ded",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e02142ac21051d8ae72505d0f6eab67616d00001e023f66b5b49ccea004a5ef0db2ab67616d00001e02aaa9d84415623c1e790cd07bab67616d00001e02fc059cbb608cdde573b86ded",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e02142ac21051d8ae72505d0f6eab67616d00001e023f66b5b49ccea004a5ef0db2ab67616d00001e02aaa9d84415623c1e790cd07bab67616d00001e02fc059cbb608cdde573b86ded",
+                    "width": 60
+                }
+            ],
+            "name": "Wild cards",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAGzUPt3WQhWKJ3oLI0SU2Zu1J7vfM",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6CWtp4yMz6POJKQieLShi3/tracks",
+                "total": 24
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6CWtp4yMz6POJKQieLShi3"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4NdKvgzakm3L1ivdvpaF6d"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4NdKvgzakm3L1ivdvpaF6d",
+            "id": "4NdKvgzakm3L1ivdvpaF6d",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e022e92f776279eaf45d14a33fdab67616d00001e024e1ce5c19325a80d8300cb64ab67616d00001e026e88eb6508fd94cd1b745ce2ab67616d00001e02c6e0948bbb0681ff29cdbae8",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e022e92f776279eaf45d14a33fdab67616d00001e024e1ce5c19325a80d8300cb64ab67616d00001e026e88eb6508fd94cd1b745ce2ab67616d00001e02c6e0948bbb0681ff29cdbae8",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e022e92f776279eaf45d14a33fdab67616d00001e024e1ce5c19325a80d8300cb64ab67616d00001e026e88eb6508fd94cd1b745ce2ab67616d00001e02c6e0948bbb0681ff29cdbae8",
+                    "width": 60
+                }
+            ],
+            "name": "hip hop **",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAANqsiShfg3Mssi+w368h9Y4hLNNxG",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4NdKvgzakm3L1ivdvpaF6d/tracks",
+                "total": 48
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4NdKvgzakm3L1ivdvpaF6d"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2pmZ8IDVimR4xjXYD9hFgT"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2pmZ8IDVimR4xjXYD9hFgT",
+            "id": "2pmZ8IDVimR4xjXYD9hFgT",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e020949c5a5ad8bec4bebacc47dab67616d00001e0221b2b485aef32bcc96c1875cab67616d00001e026ca5c90113b30c3c43ffb8f4ab67616d00001e02cdb645498cd3d8a2db4d05e1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e020949c5a5ad8bec4bebacc47dab67616d00001e0221b2b485aef32bcc96c1875cab67616d00001e026ca5c90113b30c3c43ffb8f4ab67616d00001e02cdb645498cd3d8a2db4d05e1",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e020949c5a5ad8bec4bebacc47dab67616d00001e0221b2b485aef32bcc96c1875cab67616d00001e026ca5c90113b30c3c43ffb8f4ab67616d00001e02cdb645498cd3d8a2db4d05e1",
+                    "width": 60
+                }
+            ],
+            "name": "hip hop ***",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAIWqYyvsSUC3E7U8j3q1lD0Zr/JSf",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2pmZ8IDVimR4xjXYD9hFgT/tracks",
+                "total": 31
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2pmZ8IDVimR4xjXYD9hFgT"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/7ClZVdUT1Pdo4fHFyNlH2E"
+            },
+            "href": "https://api.spotify.com/v1/playlists/7ClZVdUT1Pdo4fHFyNlH2E",
+            "id": "7ClZVdUT1Pdo4fHFyNlH2E",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e02882a1772162aa69adef6d24aab67616d00001e02a2fd57e305c95ac1343d90eaab67616d00001e02a9a6bb690e97ec2b74aea4c3ab67616d00001e02b05cd04f7f8698a3a8ac27ad",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e02882a1772162aa69adef6d24aab67616d00001e02a2fd57e305c95ac1343d90eaab67616d00001e02a9a6bb690e97ec2b74aea4c3ab67616d00001e02b05cd04f7f8698a3a8ac27ad",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e02882a1772162aa69adef6d24aab67616d00001e02a2fd57e305c95ac1343d90eaab67616d00001e02a9a6bb690e97ec2b74aea4c3ab67616d00001e02b05cd04f7f8698a3a8ac27ad",
+                    "width": 60
+                }
+            ],
+            "name": "hebrew p",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAczZRa/oOv9ZqaJQsYbNLiB6agy2V",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/7ClZVdUT1Pdo4fHFyNlH2E/tracks",
+                "total": 33
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7ClZVdUT1Pdo4fHFyNlH2E"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2vyhAbLfrs3hyzugP0Hf8V"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2vyhAbLfrs3hyzugP0Hf8V",
+            "id": "2vyhAbLfrs3hyzugP0Hf8V",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e02102eee7aef460d21644a231bab67616d00001e0211598a0cf24b6575ca0f6ef6ab67616d00001e02558eda914eca23683f2280b0ab67616d00001e0287afa5e41783b6122c22f101",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e02102eee7aef460d21644a231bab67616d00001e0211598a0cf24b6575ca0f6ef6ab67616d00001e02558eda914eca23683f2280b0ab67616d00001e0287afa5e41783b6122c22f101",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e02102eee7aef460d21644a231bab67616d00001e0211598a0cf24b6575ca0f6ef6ab67616d00001e02558eda914eca23683f2280b0ab67616d00001e0287afa5e41783b6122c22f101",
+                    "width": 60
+                }
+            ],
+            "name": "ground 0",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAWNryfF8bMuIQmSL4KRGEu2thc1fi",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2vyhAbLfrs3hyzugP0Hf8V/tracks",
+                "total": 60
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2vyhAbLfrs3hyzugP0Hf8V"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2URtrVNearelzurvclNhgO"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2URtrVNearelzurvclNhgO",
+            "id": "2URtrVNearelzurvclNhgO",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e020ed748af5c5244661cfcf363ab67616d00001e02653e75a6d8b80ec5526a4a90ab67616d00001e02663d1ea74e4cec41c820b5fcab67616d00001e02df2469ce0174e0c5f0775939",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e020ed748af5c5244661cfcf363ab67616d00001e02653e75a6d8b80ec5526a4a90ab67616d00001e02663d1ea74e4cec41c820b5fcab67616d00001e02df2469ce0174e0c5f0775939",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e020ed748af5c5244661cfcf363ab67616d00001e02653e75a6d8b80ec5526a4a90ab67616d00001e02663d1ea74e4cec41c820b5fcab67616d00001e02df2469ce0174e0c5f0775939",
+                    "width": 60
+                }
+            ],
+            "name": "The blues",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAIG6pURD9exF9xc27iYaP2kcshFxd",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2URtrVNearelzurvclNhgO/tracks",
+                "total": 21
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2URtrVNearelzurvclNhgO"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6vEbzTxqemf2G3kHVnTZPO"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6vEbzTxqemf2G3kHVnTZPO",
+            "id": "6vEbzTxqemf2G3kHVnTZPO",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0227d9305b8da23553e8f3e319ab67616d00001e022acc1c24eeea64f07cf99b17ab67616d00001e02962c3de444a07ab824c7faa1ab67616d00001e02d893d6fec0fa1f00f929e0b8",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0227d9305b8da23553e8f3e319ab67616d00001e022acc1c24eeea64f07cf99b17ab67616d00001e02962c3de444a07ab824c7faa1ab67616d00001e02d893d6fec0fa1f00f929e0b8",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0227d9305b8da23553e8f3e319ab67616d00001e022acc1c24eeea64f07cf99b17ab67616d00001e02962c3de444a07ab824c7faa1ab67616d00001e02d893d6fec0fa1f00f929e0b8",
+                    "width": 60
+                }
+            ],
+            "name": "Movies",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAANWZes+MRxY0rAyuiqz0lrbusCv8r",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6vEbzTxqemf2G3kHVnTZPO/tracks",
+                "total": 46
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6vEbzTxqemf2G3kHVnTZPO"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2csjisBPwee7EI90th5siE"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2csjisBPwee7EI90th5siE",
+            "id": "2csjisBPwee7EI90th5siE",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84bca4240227fdd41677acd7c8",
+                    "width": null
+                }
+            ],
+            "name": "Room of eliens",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAALhnkRUSUvnm7G2+gsWzZ0c6GKghk",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2csjisBPwee7EI90th5siE/tracks",
+                "total": 12
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2csjisBPwee7EI90th5siE"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/7HdehcxofLExlAZGfs9YVW"
+            },
+            "href": "https://api.spotify.com/v1/playlists/7HdehcxofLExlAZGfs9YVW",
+            "id": "7HdehcxofLExlAZGfs9YVW",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e020849829861df634a57768dbfab67616d00001e020a2eb9a5a4d871040f871681ab67616d00001e0255c82855070525581e2c6feeab67616d00001e02ae4dfa09519c27b64cd5a958",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e020849829861df634a57768dbfab67616d00001e020a2eb9a5a4d871040f871681ab67616d00001e0255c82855070525581e2c6feeab67616d00001e02ae4dfa09519c27b64cd5a958",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e020849829861df634a57768dbfab67616d00001e020a2eb9a5a4d871040f871681ab67616d00001e0255c82855070525581e2c6feeab67616d00001e02ae4dfa09519c27b64cd5a958",
+                    "width": 60
+                }
+            ],
+            "name": "Finess",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAIteCrch5D9ejtpTQ4+ZFZq1xOXgw",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/7HdehcxofLExlAZGfs9YVW/tracks",
+                "total": 29
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7HdehcxofLExlAZGfs9YVW"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2EsOq1dUBDTFu2aHMVPj0E"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2EsOq1dUBDTFu2aHMVPj0E",
+            "id": "2EsOq1dUBDTFu2aHMVPj0E",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845f323514443fe5c56ba49927",
+                    "width": null
+                }
+            ],
+            "name": "MORNING",
+            "owner": {
+                "display_name": "Gilad Meir",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21qhrl3qpj2jt54ilbht5egeq"
+                },
+                "href": "https://api.spotify.com/v1/users/21qhrl3qpj2jt54ilbht5egeq",
+                "id": "21qhrl3qpj2jt54ilbht5egeq",
+                "type": "user",
+                "uri": "spotify:user:21qhrl3qpj2jt54ilbht5egeq"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAu9f1hKvzP6f9MEiubNjcG+et8THz",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2EsOq1dUBDTFu2aHMVPj0E/tracks",
+                "total": 148
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2EsOq1dUBDTFu2aHMVPj0E"
+        }
+    ]
+}
