@@ -2,6 +2,8 @@ import pytest
 import source.spotify_downloader as sd
 import unittest.mock as mock
 from tests.helpers.helpers import HelperTestSpotifyDownloader as HTSD
+import os
+import shutil
 
 
 # region Fixtures
@@ -21,13 +23,19 @@ def spotify_class():
 @pytest.fixture
 def mocked_sp_playlists():
     with mock.patch('source.spotify_downloader.spotipy.Spotify.current_user_playlists') as m:
-        return m
+        yield m
 
 
 @pytest.fixture
 def mocked_sp_tracks():
-    with mock.patch('source.spotify_downloader.spotipy.Spotify.playlist_tracks') as m:
-        return m
+    with (mock.patch('source.spotify_downloader.spotipy.Spotify.playlist_tracks') as m):
+        yield m
+
+
+@pytest.fixture
+def mocked_get_video_url_get():
+    with mock.patch('source.spotify_downloader.requests.get') as m:
+        yield m
 
 
 # endregion
@@ -83,23 +91,26 @@ def test_get_songs_from_playlist_invalid_id(mocked_sp_tracks, spotify_class):
         spotify_class.get_songs_from_playlist("invalid_id")
 
 
+@pytest.mark.parametrize("song,expected_output", [(HTSD().get_parmeterize_pairs_for_test_get_video_url())])
+def test_get_video_url(mocked_get_video_url_get, spotify_class, song, expected_output):
+    # arrange
+    mock_file_path = r"C:\Users\40gil\Desktop\not_work\my_scipts\TestingExercies\SpotifyToMp3\SpotifyToMp3\tests\data\mocked_htmls\fortunate_son.html"
+    with open(mock_file_path, "r", encoding="utf-8") as f:
+        mock_html_content = f.read()
+    mocked_get_video_url_get.return_value = mock.Mock(
+        status_code=200, text=mock_html_content
+    )
+
+    # act
+    actual_result = spotify_class.get_video_url(song)
+
+    # assert
+    assert actual_result == expected_output, f"Expected {expected_output}\n got {actual_result}"
+
 # endregion
-
-
-#
-# def test_create_folder():
-#     assert True
-
-
-#
-# def test_get_video_url():
-#     assert True
-#
-#
 # def test_download_url_from_ytdll():
 #     assert True
 #
 #
 # def test_change_metadata():
 #     assert True
-

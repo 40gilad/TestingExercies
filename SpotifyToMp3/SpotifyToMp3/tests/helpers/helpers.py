@@ -20,3 +20,14 @@ class HelperTestSpotifyDownloader():
     def get_parmeterize_pairs_for_test_get_playlist(self):
         playlists_names = ["Moz17_3", "Movies", "Drock"]
         return [(p, self.load_json(fr"expected_jsons\playlists\{p}")) for p in playlists_names]
+
+    def get_parmeterize_pairs_for_test_get_video_url(self):
+        """
+
+        :param file_name:
+        :return: A SONG. a dict that represent song from the file
+        """
+        return ({'name': 'Fortunate Son',
+                 'artist': 'Creedence Clearwater Revival',
+                 'song_id': '3yI282DoIJyERd0vGukMoB'},
+                "https://www.youtube.com/watch?v=ZWijx_AgPiA")
